@@ -1,23 +1,16 @@
-## Hi I'm Lesley-Ann 👋
+## Hi I'm Lesley-Ann 👩‍💻👋
 
+lesley_ann = {
     "summary": (
-        "Software engineer who loves cats, plants and videogames"
+        "Software engineer"
     ),
     "code": [
-        "Python", 
-        "JavaScript", 
-        "TypeScript", 
-        "Java", 
-        "HTML", 
-        "CSS", 
-        "SQL", 
-        "Dart"],
+        "Python", "JavaScript", "TypeScript", "Java", "HTML", "CSS", "SQL", "Dart"
+    ],
+    "interests": [
+        "machine learning", "computer vision", "UX design", "accessible design", "data science", "product management", "ai for good"
+    ],
     "interests_outside_tech": [
-        "hiking",
-        "gardening",
-        "gaming",
-        "yoga",
-        "volunteering",
-        "podcasts"
-    ]
+        "hiking", "gardening", "gaming", "yoga", "cats", "podcasts"
+        ]
 }
