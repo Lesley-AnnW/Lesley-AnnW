@@ -1,6 +1,7 @@
 ## Hi I'm Lesley-Ann 👩‍💻👋
 
-<pre> lesley_ann = {
+```python
+lesley_ann = {
     "summary": "Software engineer",
     "code": [
         "Python", "JavaScript", "TypeScript", "Java", "HTML", "CSS", "SQL", "Dart"
@@ -12,4 +13,5 @@
     "interests_outside_tech": [
         "hiking", "gardening", "gaming", "yoga", "cats", "podcasts"
     ]
-} </pre>
+}
+```
