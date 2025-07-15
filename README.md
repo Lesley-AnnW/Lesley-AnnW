@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi I'm Lesley-Ann 👋
 
-<!--
-**Lesley-AnnW/Lesley-AnnW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    "summary": (
+        "Software engineer who loves cats, plants and videogames"
+    ),
+    "code": [
+        "Python", 
+        "JavaScript", 
+        "TypeScript", 
+        "Java", 
+        "HTML", 
+        "CSS", 
+        "SQL", 
+        "Dart"],
+    "interests_outside_tech": [
+        "hiking",
+        "gardening",
+        "gaming",
+        "yoga",
+        "volunteering",
+        "podcasts"
+    ]
+}
