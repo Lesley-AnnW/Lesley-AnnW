@@ -8,7 +8,7 @@ lesley_ann = {
     ],
     "interests": [
         "machine learning", "computer vision", "UX design", 
-        "accessible design", "data science", "product management", "ai for good"
+        "accessible design", "data science", "product management", "AI for good"
     ],
     "interests_outside_tech": [
         "hiking", "gardening", "gaming", "yoga", "cats", "podcasts"
