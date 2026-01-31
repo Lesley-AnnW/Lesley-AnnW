@@ -11,7 +11,7 @@ lesley_ann = {
         "accessible design", "data science", "product management", "AI for good"
     ],
     "interests_outside_tech": [
-        "hiking", "gardening", "gaming", "yoga", "cats", "podcasts"
+        "hiking", "gardening", "gaming", "yoga", "cats", "podcasts", "ceramics"
     ]
 }
 ```
