@@ -4,7 +4,7 @@
 lesley_ann = {
     "summary": "Software engineer",
     "code": [
-        "Python", "JavaScript", "TypeScript", "HTML", "CSS", "SQL", "Dart"
+        "Python", "Pandas", "JavaScript", "TypeScript", "HTML", "CSS", "SQL", "Dart"
     ],
     "interests": [
         "machine learning", "computer vision", "UX design", 
